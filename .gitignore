@@ -3,3 +3,8 @@ Output/
 TrainedModels/
 __pycache__/
 .idea
+__pycache__
+SinGAN/__pycache__/imresize.cpython-36.pyc
+SinGAN/__pycache__/manipulate.cpython-36.pyc
+*.pyc
+
